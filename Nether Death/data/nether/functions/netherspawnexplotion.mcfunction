@@ -1,5 +1,5 @@
+summon minecraft:fireball ~ ~1 ~ {direction:[0,2,0],power:[0,-10,0],ExplosionPower:15}
 summon minecraft:lightning_bolt ~ ~ ~
-summon minecraft:fireball ~ ~1 ~ {direction:[0.0,2.0,0.0],power:[0.0,-10.0,0.0],ExplosionPower:15}
 fill ~11 ~11 ~11 ~-11 ~-11 ~-11 air
 fill ~15 ~3 ~3 ~-15 ~-3 ~-3 air
 fill ~14 ~6 ~6 ~-14 ~6 ~-6 air
