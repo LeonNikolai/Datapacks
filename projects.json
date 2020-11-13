@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "tittle":       "Duarbility Hud", 
+            "type":         "datapack",
+            "download":     "https://github.com/LeonNikolai/Durability-Hud-Datapack/releases/latest/download/durability-hud.zip",
+            "video":        "https://youtu.be/kOlCIAEl_Js",
+            "git":          "https://github.com/LeonNikolai/Durability-Hud-Datapack",
+            "preview":      "image/durability.jpg",
+            "version":      "1.14 - 1.16",
+            "description":  "Shows the durability of items in main-hand and off-hand."
+        },
+        {
+            "tittle":       "Duarbility Hud Pluss", 
+            "type":         "datapack",
+            "download":     "https://github.com/LeonNikolai/Durability-Hud-Pluss-Datapack/releases/latest/",
+            "video":        "https://www.youtube.com/watch?v=wqb2q9XHtJM",
+            "git":          "https://github.com/LeonNikolai/Durability-Hud-Pluss-Datapack",
+            "preview":      "image/durpluss.png",
+            "version":      "1.16",
+            "description":  "Shows the durability of equiped armor, and items in main-hand and off-hand."
+        },
+        {
+            "tittle":       "Damage Hud", 
+            "type":         "datapack",
+            "download":     "https://github.com/LeonNikolai/Damage-Hud-Datapack/releases/latest/download/damage-hud.zip",
+            "video":        "https://youtu.be/ur5VN0WsZ9s",
+            "git":          "https://github.com/LeonNikolai/Damage-Hud-Datapack",
+            "preview":      "image/damage.png",
+            "version":      "1.15 - 1.16",
+            "description":  "Shows the damage dealt to mobs"
+        },
+        {
+            "tittle":       "Killfeed", 
+            "type":         "datapack",
+            "download":     "https://github.com/LeonNikolai/Killfeed-Datapack/releases/latest/download/killfeed.zip",
+            "video":        "https://www.youtube.com/watch?v=8yOtjFiEDII",
+            "git":          "https://github.com/LeonNikolai/Killfeed-Datapack",
+            "preview":      "image/killfeed.png",
+            "version":    "1.14 - 1.16",
+            "description":  "Death messages for mobs killed by players."
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+pug -w ./src/pug -o ./docs -P
+sass --watch ./src/sass:./docs

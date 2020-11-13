@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e6e6e6;
+            }
+
+            .cls-2 {
+                font-size: 252.16px;
+                font-family: Roboto-Light, Roboto;
+                font-weight: 500;
+            }
+
+        </style>
+    </defs>
+    <polygon class="cls-1" points="1680 377 969 1034 145 492 1059 14 1680 377"> 
+    <animate attributeName="points"      values="
+    1680 377 969 1034 145 492 1059 14 1680 377;
+    1177 130 1603 724 534 990 397 158 1177 130;
+    67 202 1260 76 1689 632 379 1032 67 202;
+    440 759 441 366 1537 117 1680 721 440 759;
+    1680 377 969 1034 145 492 1059 14 1680 377;
+    " dur="2s" repeatCount="indefinite"/>
+    </polygon>
+    
+    <text class="cls-2" transform="translate(443 613.95)">No Image</text>
+</svg>

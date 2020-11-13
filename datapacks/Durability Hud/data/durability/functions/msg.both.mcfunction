@@ -1,4 +1,0 @@
-title @s actionbar [{"score":{"name":"@s","objective":"itm.off.dr"}},{"text":" "},{"score":{"name":"@s","objective":"itm.main.dr"}}]
-execute if score @s itm.main.dr matches ..10 run title @s actionbar [{"text":""},{"text":"            "},{"score":{"name":"@s","objective":"itm.off.dr"}},{"text":" "},{"score":{"name":"@s","objective":"itm.main.dr"},"bold":"true"},{"text":" WARNING","bold":"true"}]
-execute if score @s itm.off.dr matches ..10 run title @s actionbar [{"text":""},{"text":"WARNING ","bold":"true"},{"score":{"name":"@s","objective":"itm.off.dr"},"bold":"true"},{"text":" "},{"score":{"name":"@s","objective":"itm.main.dr"}},{"text":"            "}]
-execute if score @s itm.main.dr matches ..10 if score @s itm.off.dr matches ..10 run title @s actionbar [{"text":"","bold":"true"},{"text":"WARNING "},{"score":{"name":"@s","objective":"itm.off.dr"}},{"text":" "},{"score":{"name":"@s","objective":"itm.main.dr"}},{"text":" WARNING"}]

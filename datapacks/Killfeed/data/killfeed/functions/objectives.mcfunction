@@ -1,1 +1,0 @@
-tellraw @a [{"text":"","color":"gray","bold":true},{"text":" ☠", "bold":false,"color":"yellow"},{"text":" KILL","color":"white"},{"text":"☠", "bold":false,"color":"yellow"},{"text":"FEED","color":"white"},{"text":" © 2020 Leon Nikolai Engelsvold", "bold":false}]

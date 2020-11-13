@@ -1,2 +1,0 @@
-advancement revoke @s only killfeed:villagers/4/mason
-tellraw @a [{"text":" "},{"text":"☠  ", "color":"red"},{"selector":"@s"},{"text":" murdered a "},{"text":"Expert Mason", "hoverEvent":{"action":"show_text","value":[{"text":"Villager"}]}}]

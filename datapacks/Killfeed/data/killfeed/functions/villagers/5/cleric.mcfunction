@@ -1,2 +1,0 @@
-advancement revoke @s only killfeed:villagers/5/cleric
-tellraw @a [{"text":" "},{"text":"☠  ", "color":"red"},{"selector":"@s"},{"text":" murdered a "},{"text":"Master Cleric", "hoverEvent":{"action":"show_text","value":[{"text":"Villager"}]}}]

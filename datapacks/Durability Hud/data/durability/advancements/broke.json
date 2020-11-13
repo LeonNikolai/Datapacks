@@ -1,1 +1,0 @@
-{"rewards":{"function":"durability:broke"},"criteria":{"broke":{"trigger":"item_durability_changed","conditions":{"durability":{"max":0}}}}}
