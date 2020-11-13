@@ -1,0 +1,11 @@
+{
+  "predicate": {
+    "equipment": {
+      "offhand": {
+        "item": "minecraft:air"
+      }
+    }
+  },
+  "condition": "minecraft:entity_properties",
+  "entity": "this"
+}

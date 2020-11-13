@@ -1,0 +1,2 @@
+title @s actionbar [{"score":{"name":"@s","objective":"itm.off.dr"}},{"text":" "},{"score":{"name":"@s","objective":"itm.main.dr"}}]
+execute if score @s itm.off.dr matches ..10 run title @s actionbar [{"text":"WARNING ","bold":"true"},{"score":{"name":"@s","objective":"itm.off.dr"}},{"text":" WARNING"}]

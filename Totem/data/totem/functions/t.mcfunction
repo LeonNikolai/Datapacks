@@ -1,2 +1,0 @@
-tellraw @a [{"selector":"@s","color":"white"},{"text":" cheated death using ","color":"white"},{"text":"Totem Of Undying","color":"yellow","hoverEvent":{"action":"show_item","value":"{id:\"minecraft:totem_of_undying\",Count:2b}"}}]
-scoreboard players set @s t.totem 0

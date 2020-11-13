@@ -1,0 +1,10 @@
+{
+  "rewards": {
+    "function": "portal:print_dimension"
+  },
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:changed_dimension"
+    }
+  }
+}

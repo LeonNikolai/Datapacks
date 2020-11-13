@@ -1,0 +1,2 @@
+advancement revoke @s only killfeed:zombies/villagers/1/weaponsmith
+tellraw @a [{"text":" "},{"text":"☠  ", "color":"green"},{"selector":"@s"},{"text":" killed a "},{"text":"Zombie Weaponsmith", "hoverEvent":{"action":"show_text","value":[{"text":"Zombie Villager"}]}}]

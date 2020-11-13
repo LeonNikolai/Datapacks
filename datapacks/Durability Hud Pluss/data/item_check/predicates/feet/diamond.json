@@ -1,0 +1,11 @@
+{
+  "predicate": {
+    "equipment": {
+      "feet": {
+        "item": "minecraft:diamond_boots"
+      }
+    }
+  },
+  "condition": "minecraft:entity_properties",
+  "entity": "this"
+}

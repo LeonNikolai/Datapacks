@@ -1,1 +1,0 @@
-execute as @a[scores={t.totem=1..}] run function totem:t

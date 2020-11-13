@@ -1,0 +1,2 @@
+advancement revoke @s only killfeed:villagers/5/cartographer
+tellraw @a [{"text":" "},{"text":"☠  ", "color":"red"},{"selector":"@s"},{"text":" murdered a "},{"text":"Master Cartographer", "hoverEvent":{"action":"show_text","value":[{"text":"Villager"}]}}]

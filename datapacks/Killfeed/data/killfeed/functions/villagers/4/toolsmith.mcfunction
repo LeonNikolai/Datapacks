@@ -1,0 +1,2 @@
+advancement revoke @s only killfeed:villagers/4/toolsmith
+tellraw @a [{"text":" "},{"text":"☠  ", "color":"red"},{"selector":"@s"},{"text":" murdered a "},{"text":"Expert Toolsmith", "hoverEvent":{"action":"show_text","value":[{"text":"Villager"}]}}]

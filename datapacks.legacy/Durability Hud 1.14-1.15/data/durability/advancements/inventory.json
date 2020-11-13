@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "durability:inventory"
+    },
+    "criteria": {
+        "inv_changed": {
+            "trigger": "minecraft:inventory_changed"
+        }
+    }
+}
