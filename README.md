@@ -1,5 +1,5 @@
 # Datapacks
-A minecraft datapack that shows the durability of items in offhand and mainhand.
+A reposotory to store all my datapacks.
 
 ## Install Datpacks
 ### Pre-existing world
