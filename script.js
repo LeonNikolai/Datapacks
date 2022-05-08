@@ -1,12 +1,15 @@
-import {html, render } from 'https://unpkg.com/lit-html?module'
-import {unsafeHTML} from 'https://unpkg.com/lit-html/directives/unsafe-html.js?module';
+import {html, render } from 'https://unpkg.com/lit-html@2.2.3/lit-html.js?module'
+import {unsafeHTML} from 'https://unpkg.com/lit-html@2.2.3/directives/unsafe-html.js?module';
 
 const setFilter = e => {filter = e.currenttarget.value; render(datapacks, document.getElementById("render"))};
 
 let projectJson = []
 
 window.addEventListener('load', (e) => {
-    fetch("projects.json").then(response => response.json()).then(json => {projectJson = json.projects || projectJson; renderlist()});
+    fetch("projects.json").then(response => response.json()).then(json => {
+        document.getElementById("render").innerHTML = "";
+        projectJson = json.projects || projectJson; renderlist()
+    });
     document.querySelectorAll(".filter").forEach(e => e.addEventListener('input', e => renderlist(e.target.value)))
 });
 
